@@ -47,6 +47,8 @@ brew install coreutils
 brew install findutils
 brew install imagemagick --with-webp
 brew install gdal
+brew install geos
+brew install proj
 brew install hub
 ###################################
 # Node
